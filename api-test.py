@@ -1,0 +1,1 @@
+https://github.com/driveate/ws-api-client-python.git
